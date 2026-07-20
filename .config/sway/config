@@ -1,0 +1,12 @@
+# KoboldHunters. LTD Theme
+
+client.focused          #A85A2A #A85A2A #EAE4D5 #D4AF37 #A85A2A
+client.focused_inactive #23201D #23201D #D4AF37 #4A2A1A #23201D
+client.unfocused        #171411 #171411 #8E8376 #171411 #171411
+client.urgent           #A82515 #A82515 #F7F1E3 #D4AF37 #A82515
+
+default_border pixel 2
+default_floating_border pixel 2
+
+gaps inner 8
+gaps outer 4

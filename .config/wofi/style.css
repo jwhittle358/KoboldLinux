@@ -1,0 +1,32 @@
+window {
+    background-color: #171411;
+    border: 2px solid #D4AF37;
+    border-radius: 12px;
+}
+
+#input {
+    margin: 10px;
+    padding: 8px;
+    color: #EAE4D5;
+    background-color: #23201D;
+    border: 1px solid #A85A2A;
+    font-family: "Cinzel Decorative";
+}
+
+#inner-box {
+    margin: 8px;
+}
+
+#entry {
+    padding: 8px;
+    border-radius: 6px;
+}
+
+#entry:selected {
+    background-color: #A85A2A;
+    color: #F7F1E3;
+}
+
+#text {
+    color: #EAE4D5;
+}
