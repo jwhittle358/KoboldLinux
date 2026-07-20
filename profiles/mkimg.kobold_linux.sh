@@ -1,4 +1,4 @@
-profile_secops() {
+profile_kobold_linux() {
     profile_standard
     title="Kobold Linux"
     desc="Personal Linux Distro for Jackie Whittle"
