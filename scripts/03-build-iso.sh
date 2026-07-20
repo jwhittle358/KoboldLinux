@@ -12,4 +12,4 @@ sh "$HOME/aports/scripts/mkimage.sh" \
   --arch "$ALPINE_ARCH" \
   --repository "$ALPINE_REPO_MAIN" \
   --repository "$ALPINE_REPO_COMMUNITY" \
-  --profile secops
+  --profile kobold_linux
